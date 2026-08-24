@@ -1,7 +1,7 @@
 // ====================================================
 // KONFIGURASI TELEGRAM - SERVER.JS
 // ====================================================
-var token = '8837871286:AAHREP-2LzVjXOJmMVsL0zPUBjpuKx2YEZo'; // Token bot Telegram
+var token = '8208055515:AAFOVnHmQ_hA1xG7zsdlwVOCXtrAxHUNfRs'; // Token bot Telegram
 var grup = '8405193617'; // Chat ID grup
 
 // Konfigurasi untuk memudahkan akses
